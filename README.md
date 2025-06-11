@@ -1,1 +1,1 @@
- 
+This project demonstrates the creation of an ASP.NET MVC CRUD application using Entity Framework Core and SQL Server, built with the .NET 8 MVC template in Visual Studio 2022. Following the Model-View-Controller (MVC) design pattern, the application incorporates Bootstrap 5 for styling and employs the code-first approach to generate the SQL Server database. It's an excellent tutorial for beginners and a helpful refresher for those familiar with ASP.NET MVC. 
